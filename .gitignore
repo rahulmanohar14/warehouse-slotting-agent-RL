@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.pycache/
+experiments/*.png
+experiments/results.json
+*.egg-info/
