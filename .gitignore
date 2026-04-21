@@ -1,7 +1,9 @@
 .env
+venv311/
 __pycache__/
 *.pyc
 .pycache/
+*.egg-info/
 experiments/*.png
 experiments/results.json
-*.egg-info/
+experiments/dqn_trained.pth
